@@ -32,7 +32,7 @@ pip install streamlit langchain-community langchain-groq pandas sqlalchemy sqlit
 
 3. **Run the application**:
 ```bash
-streamlit run your_script_name.py
+streamlit run app.py
 ```
 
 ## 📊 Database Setup
